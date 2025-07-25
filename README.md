@@ -71,6 +71,12 @@
 
 ---
 
+## 🔗Live Link
+
+    https://resumind-beta.vercel.app/
+
+---
+
 ## ✅ Conclusion
 
 AI Resume Analyzer is a lightweight, modern tool that simplifies resume evaluation using AI and serverless tech—built for speed, usability, and scalability.
